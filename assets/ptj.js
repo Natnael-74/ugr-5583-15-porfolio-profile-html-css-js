@@ -87,7 +87,7 @@ modalCloses.forEach((modalClose) => {
   });
 });
 
-/*======================= Portfolio Swiper ===================*/
+/*======================= Portfolio Swipers ===================*/
 var swiper = new Swiper(".portfolio__container", {
   cssMode: true,
   loop: true,
@@ -102,7 +102,7 @@ var swiper = new Swiper(".portfolio__container", {
   },
 });
 
-/*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
+/*==================== SCROLL SECTIONS ====================*/
 const sections = document.querySelectorAll("section[id]");
 
 function scrollActive() {
