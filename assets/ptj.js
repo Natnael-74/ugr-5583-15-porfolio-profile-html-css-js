@@ -1,3 +1,4 @@
+/*==================== NAV ====================*/
 const navMenu = document.getElementById("nav-menu"),
   navToggle = document.getElementById("nav-toggle");
 navClose = document.getElementById("nav-close");
@@ -6,6 +7,7 @@ if (navToggle) {
     navMenu.classList.add("show-menu");
   });
 }
+
 
 if (navClose) {
   navClose.addEventListener("click", () => {
