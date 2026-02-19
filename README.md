@@ -22,4 +22,4 @@ The personal portfolio website showcases my skills, projects, and experiences as
 
 ## Getting Started
 
-To view the website #LINK:
+To view the website #LINK:https://natnael-endale.netlify.app/
